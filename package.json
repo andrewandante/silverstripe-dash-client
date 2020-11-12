@@ -1,0 +1,16 @@
+{
+  "name": "@andrewandante/silverstripe-dash-client",
+  "version": "v0.0.1",
+  "description": "Interacts with the Silverstripe dashboard APIs",
+  "license": "MIT",
+  "repository": "andrewandante/silverstripe-dash-client",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package",
+    "silverstripe",
+    "dashboard",
+    "API",
+    "deployment"
+  ]
+}
